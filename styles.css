@@ -1,7 +1,8 @@
-.subsection {
+#subsection .list {
     color: blue;
+    background-color: yellow;
 }
 
-.main .list {
+#subsection .main .list {
     color: red;
 }
