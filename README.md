@@ -1,5 +1,3 @@
 # test_git
-yo yo
+My first GitHub repo!
 Hello Odin!
-
-test text to see if this crap actually works
